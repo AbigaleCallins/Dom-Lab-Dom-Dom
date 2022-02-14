@@ -1,0 +1,19 @@
+
+btn {
+    display: block;
+}
+
+div {
+    display: flex;
+    flex-flow: column wrap;
+    
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    background-color: black;
+
+    color: peachpuff;
+    text-align: center;
+    word-wrap: break-word;
+}
+
